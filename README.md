@@ -2,7 +2,7 @@
 
 A showcase of all the projects and blogs I build and wrote in a single place. 
 
-#### Live Project [https://meettandel-neog.netlify.app/](https://meettandel-neog.netlify.app/)
+#### Live Project [https://lokesh-fsd.github.io/Lokesh-Portfolio/)
 
 ## Tech Stack
 
